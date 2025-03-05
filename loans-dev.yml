@@ -1,6 +1,7 @@
 river:
   name: "River - Loans Service - DEV"
   age: 30
+  info: "Infomation in Loans service"
   address:
     city: "Pune"
     state: "Maharashtra"
