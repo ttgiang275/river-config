@@ -1,6 +1,7 @@
 river:
   name: "River - Accounts Service - DEV - GITCHANGED"
   age: 30
+  info: "RabbitMQ Test"
   address:
     city: "Pune"
     state: "{cipher}c1173615b5ec5156ed071aff24c6584f2e9d78be053bf86fcbee480ad8ad17ef"
