@@ -1,6 +1,7 @@
 river:
   name: "River - Cards Service - DEV"
   age: 30
+  info: "River infomation in cards service"
   address:
     city: "Pune"
     state: "Maharashtra"
